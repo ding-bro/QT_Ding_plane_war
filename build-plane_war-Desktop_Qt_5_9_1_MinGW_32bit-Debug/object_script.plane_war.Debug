@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\fly_war.o
+./debug\fly_map.o
+./debug\myplane.o
+./debug\bullet.o
+./debug\enemyplane.o
+./debug\boom.o
+./debug\hellmodel.o
+./debug\moc_fly_war.o
+./debug\moc_hellmodel.o
+);

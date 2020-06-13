@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\fly_war.o
+./release\fly_map.o
+./release\myplane.o
+./release\bullet.o
+./release\enemyplane.o
+./release\boom.o
+./release\hellmodel.o
+./release\moc_fly_war.o
+./release\moc_hellmodel.o
+);
